@@ -1,2 +1,2 @@
-from libcpython import root
+from lib_cpython_comiler import root
 root()
